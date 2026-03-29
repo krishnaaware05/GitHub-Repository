@@ -1,4 +1,3 @@
-# GitHub-Repository
 Open Source Audit Project
 Student Details
 Name: Omkrishna Aware
