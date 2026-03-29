@@ -25,8 +25,8 @@ Creates a personal open-source philosophy file.
 
 How to Run
 chmod +x *.sh
-./Script1_System_Identit_Report.sh
-./FOSS_Package_Inspector.sh
-./Disk_Permission_Auditor.sh
-./Script4_Log_File_Analyzer.sh
-./Script5_Open_Source_Manifesto_Generator.sh
+./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh
+./script5.sh
